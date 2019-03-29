@@ -28,7 +28,7 @@ mwakre29@gmail.com
 
 ## Technologies Used
 
-HTML, CSS, JS
+HTML, CSS, JavaScript, jQuery
 
 ### License
 
