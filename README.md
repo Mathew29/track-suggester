@@ -11,7 +11,7 @@ _This application will ask you a few questions about what type of programming yo
 ## Setup/Installation Requirements
 
 * _Clone this repository_
-* _Open the Command Line _
+* _Open the Command Line_
 * _Change directory to Desktop_
 * _Use the Command_
 * _open track/index.html_
