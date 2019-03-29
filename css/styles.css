@@ -1,12 +1,14 @@
 #c, #java, #ruby, #php, #header, #header-try, #header-why {
   display: none;
 }
-
+label[for=name] {
+  font-size: 22px;
+  font-weight: bold;
+}
 span {
   color: blue;
 }
 form {
-  /* margin: 4px; */
   padding: 2px;
   width: 60%;
 }
