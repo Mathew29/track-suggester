@@ -140,6 +140,26 @@ $(document).ready(function() {
    } else if (frontEnd === "yes" && backEnd === "yes" && webApplication === "yes" && fastPace === "yes" && highPerform === "no" && business === "no"){
      $("#ruby").show();
      $("#php").show();
+   } else if (frontEnd === "yes" && backEnd === "no" && webApplication === "no" && fastPace === "no" && highPerform === "yes" && business === "yes"){
+     $("#java").show();
+   } else if (frontEnd === "yes" && backEnd === "no" && webApplication === "no" && fastPace === "yes" && highPerform === "no" && business === "yes"){
+     $("#php").show();
+   } else if (frontEnd === "yes" && backEnd === "no" && webApplication === "no" && fastPace === "yes" && highPerform === "yes" && business === "no"){
+     $("#ruby").show();
+   } else if (frontEnd === "yes" && backEnd === "no" && webApplication === "yes" && fastPace === "no" && highPerform === "no" && business === "yes"){
+     $("#c").show();
+     $("#java").show();
+   } else if (frontEnd === "yes" && backEnd === "no" && webApplication === "yes" && fastPace === "no" && highPerform === "yes" && business === "no"){
+     $("#java").show();
+   } else if (frontEnd === "yes" && backEnd === "no" && webApplication === "yes" && fastPace === "yes" && highPerform === "no" && business === "no"){
+     $("#ruby").show();
+   } else if (frontEnd === "yes" && backEnd === "yes" && webApplication === "no" && fastPace === "no" && highPerform === "no" && business === "yes"){
+     $("#c").show();
+     $("#java").show();
+   } else if (frontEnd === "yes" && backEnd === "yes" && webApplication === "no" && fastPace === "yes" && highPerform === "no" && business === "no"){
+     $("#php").show();
+   } else if (frontEnd === "yes" && backEnd === "yes" && webApplication === "yes" && fastPace === "no" && highPerform === "no" && business === "no"){
+     $("#java").show();
    }
 
 
