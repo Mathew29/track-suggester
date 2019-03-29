@@ -160,6 +160,19 @@ $(document).ready(function() {
      $("#php").show();
    } else if (frontEnd === "yes" && backEnd === "yes" && webApplication === "yes" && fastPace === "no" && highPerform === "no" && business === "no"){
      $("#java").show();
+   } else if (frontEnd === "no" && backEnd === "no" && webApplication === "no" && fastPace === "no" && highPerform === "yes" && business === "yes"){
+     $("#try").show();
+   } else if (frontEnd === "no" && backEnd === "no" && webApplication === "no" && fastPace === "yes" && highPerform === "no" && business === "yes"){
+     $("#try").show();
+   } else if (frontEnd === "no" && backEnd === "no" && webApplication === "no" && fastPace === "yes" && highPerform === "yes" && business === "no"){
+     $("#try").show();
+   } else if (frontEnd === "no" && backEnd === "no" && webApplication === "yes" && fastPace === "no" && highPerform === "no" && business === "yes"){
+     $("#try").show();
+   } else if (frontEnd === "no" && backEnd === "no" && webApplication === "yes" && fastPace === "no" && highPerform === "yes" && business === "no"){
+     $("#c").show();
+     $("#java").show();
+     $("#ruby").show();
+     $("#php").show();
    }
 
 
