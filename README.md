@@ -6,7 +6,7 @@
 
 ## Description
 
-_This application will ask you a few questions about what type of programming you want to do and what size of company you want to work at. Click on the submit button after answering all the questions._
+_This application will ask you a few questions about what type of programming you want to do and what size of company you want to work at. Click on the submit button after answering all the questions. Don't forget to enter your name!_
 
 ## Setup/Installation Requirements
 
