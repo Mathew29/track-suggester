@@ -18,9 +18,6 @@ _This application will ask you a few questions about what type of programming yo
 * _Or use the GUI and access the folder track from the desktop_
 * _Then open the index.html file_
 
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
 
 ## Support and contact details
 
