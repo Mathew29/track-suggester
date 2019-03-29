@@ -5,3 +5,17 @@
 span {
   color: blue;
 }
+form {
+  margin: 4px;
+  padding: 2px;
+  width: 80%;
+}
+.container {
+ font-family: sans-serif;
+}
+h2 {
+  font-size: 30px;
+}
+li {
+  font-size: 24px;
+}
