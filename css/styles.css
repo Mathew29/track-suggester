@@ -1,3 +1,7 @@
-#c, #java, #ruby, #php, #try, #why {
+#c, #java, #ruby, #php, #header, #header-try, #header-why {
   display: none;
+}
+
+span {
+  color: blue;
 }
